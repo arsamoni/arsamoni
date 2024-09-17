@@ -1,4 +1,6 @@
-- 👋 Hi, I’m Arsam! I joined ONI on 16/09/2024 as a Senior Frontend Engineer!
+## Hi, I'm Arsam! 👋🏼
+
+- ✨ I joined ONI on 16/09/2024 as a Senior Frontend Engineer!
 - 👀 I’m interested in all things tech, photography, travelling, boardgames and computer games.
 - 🌱 I’m currently learning Rust and GDScript
 
